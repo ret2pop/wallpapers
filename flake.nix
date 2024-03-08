@@ -1,6 +1,7 @@
 {
+description = "ret2pop's collection of wallpapers";
 inputs = {
 };
-outputs = inputs@{ }: {
+outputs = { self }: {
 };
 }
