@@ -1,0 +1,6 @@
+* Wallpapers
+This is my collection of wallpapers, almost none of which I have made.
+This is meant to go with my dotfiles outlined in my hyprnixmacs repository.
+This repository is a flake, meaning it is automatically installed when
+hyprnixmacs is installed, and it is pinned to a certain version until you
+upgrade your flakes.
